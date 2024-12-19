@@ -25,7 +25,7 @@ Note:
     Ensure that the required dependencies are installed before running the script. You can install them using pip:
     pip install opencv-python numpy requests progressbar2
 """
-__version__ = '1.1.0'
+__version__ = '1.1.1'
 __author__ = 'Eddy Beaupré (https://github.com/EddyBeaupre)'
 __license__ = 'MIT'
 
